@@ -1,0 +1,70 @@
+body {
+    background-image:linear-gradient(to bottom, #D5DF5A, #ffffff);
+    margin:100px;
+    font-family: Arial, sans-serif;
+}
+
+.image {
+    display:block;
+    width:50%;
+    height:auto;
+    margin:auto;
+}
+header {
+    padding:0px;
+    background-color:#4A4A4B;
+}
+
+.title {
+    text-align:center;
+    text-transform:uppercase;
+}
+
+.subtitle {
+    text-align:center;
+    text-transform:capitalize;
+}
+
+.instructions {
+    text-align:center;
+}
+
+.ffg {
+    background-color:#ffffff;
+    border:2px solid #000000;
+}
+
+.content {
+    padding:50px;
+    padding-top:5px;
+}
+
+hr {
+    height:2px;
+    background-color:#D5DF5A;
+    border:none;
+}
+
+.form {
+    padding-top:20px;
+}
+
+.forms {
+    padding-top:20px;
+}
+
+.buttons {
+    padding-top:20px;
+}
+
+fieldset {
+    border:2px solid #D5DF5A;
+}
+
+span {
+    font-weight:bold;
+}
+
+footer {
+    text-align:center;
+}
